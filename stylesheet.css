@@ -101,11 +101,10 @@ p3	{
 	color: black;
 	}
 #Navbar	{
- 	list-style-type: none;
-  	margin: 0;
-  	padding: 0;
-	color: black;
-	font-size: 40px;
+ 	color: black;
+    	font-size: 40px;
+    	float: right;
+    	padding-right: 200px;
 	}
 h1a	{
 	text-align: center;
