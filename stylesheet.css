@@ -104,7 +104,8 @@ p3	{
  	list-style-type: none;
   	margin: 0;
   	padding: 0;
-	color: pink;
+	color: black;
+	font-size: 40px;
 	}
 h1a	{
 	text-align: center;
