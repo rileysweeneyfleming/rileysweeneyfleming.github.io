@@ -12,7 +12,7 @@ h1 	{
 	margin-top: 0px;
     	margin-bottom: 0px
 	}
-h2 { 
+h2 	{ 
 	text-align: center;
 	background-color: grey;
 	width: auto;
@@ -23,7 +23,7 @@ h2 {
     	margin-bottom: 0px;
 	color: #A9A9A9
 	}
-p1 { 
+p1 	{ 
 	display: block;
 	width: 600px;
 	height: auto;
@@ -51,7 +51,7 @@ a:link	{
 	width: 200px;
 	height: 200px;
 	padding-left: 130px;
-    padding-right: 20px;
+   	padding-right: 20px;
 	background-color: #708090;
 	padding-top: 40px
 	}
@@ -109,16 +109,9 @@ h1a	{
 	font-family: Georgia, serif;
 	font-size: 60px;
 	margin-top: 0px;
-    margin-bottom: 0px;
-    padding-left: 120px;
-    padding-right: 120px;
-	}
-h2a	{
-	float: right;
-	font-family: Georgia, serif;
-	font-size: 40px;
-	padding-right: 200px;
-    padding-top: 80px;
+    	margin-bottom: 0px;
+    	padding-left: 120px;
+    	padding-right: 120px;
 	}
 h3	{
 	font-size: 20px;
@@ -139,7 +132,7 @@ p4	{
 	font-size: 15px;
 	margin-bottom: 20px;
 	margin-left: 100px;
-}
+	}
 #op2	{
 	color: black;
 	width: 800px;
@@ -149,7 +142,7 @@ p4	{
 	font-size: 15px;
 	margin-left: 100px;
 	margin-bottom: 110px;
-}
+	}
 #Homebutton	{
 	float: right;
 	font-family: Georgia, serif;
@@ -158,22 +151,22 @@ p4	{
 	color: black;
 	background-color: grey;
 	margin-top: 80px;
-}
+	}
 #parks	{
 	float: right;
 	width: 500px;
 	height: 400px;
 	padding-left: 130px;
-    padding-right: 300px;
+    	padding-right: 300px;
 	margin-bottom: 10px;
-}
+	}
 h4	{
 	font-size: 20px;
 	padding-left: 100px;
 	text-align: left;
 	padding-right: 1000px;
 	font-family: Georgia, serif;
-}
+	}
 #tree1	{
 	color: black;
 	width: 800px;
@@ -183,19 +176,19 @@ h4	{
 	font-size: 15px;
 	margin-bottom: 20px;
 	margin-left: 100px;
-}
+	}
 #Treeplant	{
 	float: right;
 	width: 500px;
 	height: 500px;
 	padding-left: 130px;
-    padding-right: 300px;
+    	padding-right: 300px;
 	margin-bottom: 10px;
-}
+	}
 #Forestry	{
 	float: right;
 	width: 700px;
 	height: 500px;
-    padding-right: 130px;
+    	padding-right: 130px;
 	margin-bottom: 10px;
-}
+	}
